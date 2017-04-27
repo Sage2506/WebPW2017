@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Practica 4</title>
+    	<link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="blue almost">
+      <img src="img/logo.png" alt="Imagen no encontrada">
+      <div class="gray">
+        <ul id="barraP">
+          <li><img src="img/notificaciones.png" alt="Imagen no Encontrada"></li>
+          <li><img src="img/mensajes.png" alt="Imagen no Encontrada"></li>
+          <li><img src="img/ajustes.png" alt="Imagen no Encontrada"></li>
+
+        </ul>
+        <section>
+          <article class="smallArt" id="primArt">
+
+              <ul class="blue">
+                <li ><img src="img/logolinks.png" alt="Imagen no encontrada"></li>
+              </ul>
+            <ul class="white">
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+              <li>Example</li>
+            </ul>
+          </article>
+
+          <article class="blue smallArt" id="secArt">
+
+            <ul>
+              <li><img src="img/logoprogress.png" alt="Imagen no encontrada"></li>
+              <div class="white">
+                <li>Progress Bar</li>
+              <li><img src="img/barra01.png" width="100%" alt="Imagen no encontrada"></li>
+              <li>Progress Bar</li>
+              <li><img src="img/barra02.png" width="100%" alt="Imagen no encontrada"></li>
+              <li>Progress Bar</li>
+              <li><img src="img/barra03.png" width="100%" alt="Imagen no encontrada"></li>
+              <li>Progress Bar</li>
+              <li><img src="img/barra04.png" width="100%" alt="Imagen no encontrada"></li>
+              </div>
+            </ul>
+
+          </article>
+        </section>
+        <section>
+          <article class="">
+            Simple cubes
+            <ul>
+              <li><img src="img/cubo1.png" alt="Imagen no encontrada"></li>
+              <li><img src="img/cubo02.png" alt="Imagen no encontrada"></li>
+              <li><img src="img/cubo03.png" alt="Imagen no encontrada"></li>
+              <li><img src="img/cubo04.png" alt="Imagen no encontrada"></li>
+            </ul>
+          </article>
+          <article class="">
+            Panels
+            <ul>
+              <li><img src="" alt="Imagen no encontrada"></li>
+              <li><img src="" alt="Imagen no encontrada"></li>
+              <li><img src="" alt="Imagen no encontrada"></li>
+            </ul>
+          </article>
+          <article class="">
+            Usuarios
+            <ul>
+              <li><img src="" alt="Imagen no encontrada"></li>
+              <li><img src="" alt="Imagen no encontrada"></li>
+              <li><img src="" alt="Imagen no encontrada"></li>
+              <li><img src="" alt="Imagen no encontrada"></li>
+            </ul>
+          </article>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,56 @@
+.blue{
+  background-color: #20507B;
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+body div{
+  width: 100%;
+  text-align: center;
+}
+ul{
+  list-style: none;
+}
+#barraP{
+  padding-right: 0px;
+margin-right: -700px;
+}
+#barraP li{
+  display: inline-block;
+}
+.gray{
+  background-color: #ECECEE;
+}
+.almost{
+  width: 98%;
+  margin: auto;
+}
+.smallArt{
+  width: 20%;
+  text-align: left;
+}
+.smallArt ul{
+  /*margin-left: -10px;*/
+  margin-top: -15px
+}
+#primArt ul li{
+  margin-bottom: 5px;
+}
+.white{
+  background-color: white;
+}
+#secArt ul li{
+  text-align: left;
+}
+section article{
+  margin-bottom: 35px;
+}
+#secArt ul{
+  margin-left: -40px;
+
+}
+section{
+  display: inline-block;
+  vertical-align: top;
+}
