@@ -1,7 +1,7 @@
 {
   "name": "marvel",
   "version": "1.0.0",
-  "description": "Personajes de Marvel",
+  "description": "Personajes de Marvel XD",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -10,13 +10,20 @@
   "keywords": [
     "Marvel",
     "personajes",
-    "directorio"
+    "XD"
   ],
-  "author": "German Eduardo",
-  "license": "ISC",
+  "author": "Martin Nevarez",
+  "license": "MIT",
   "devDependencies": {
+    "asar": "^0.13.0",
     "electron": "^1.6.6",
     "electron-packager": "^8.6.0",
+    "electron-require": "^0.3.0",
+    "jquery": "^3.2.1"
+  },
+  "dependencies": {
+    "asar": "^0.13.0",
+    "electron": "^1.6.6",
     "electron-require": "^0.3.0",
     "jquery": "^3.2.1"
   }
